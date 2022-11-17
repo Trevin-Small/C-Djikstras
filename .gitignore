@@ -1,8 +1,10 @@
 src/minheap.o
-src/minheap_main.o
+src/minheap_test.o
 src/minheap
-src/graph.c
-src/graph.h
+src/graph.o
+src/graph_test.o
+src/graph
+src/djikstra.o
+src/djikstra
 .vscode
 .DS_Store
-src/main.c
