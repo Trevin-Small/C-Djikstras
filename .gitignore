@@ -1,0 +1,8 @@
+src/minheap.o
+src/minheap_main.o
+src/minheap
+src/graph.c
+src/graph.h
+.vscode
+.DS_Store
+src/main.c
